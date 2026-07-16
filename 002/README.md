@@ -24,7 +24,7 @@ Projeto desenvolvido em JavaScript com o objetivo de praticar lógica de program
 ```
 cadastro-alunos/
 │
-├── index.js
+├── app.js
 └── README.md
 ```
 
