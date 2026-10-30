@@ -1,4 +1,3 @@
-// PRODUTO CONCRETO
 public class Pix implements Pagamento {
     @Override
     public void processar(double valor) {

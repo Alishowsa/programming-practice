@@ -1,4 +1,3 @@
-// CRIADOR CONCRETO
 public class CheckoutPix extends Checkout {
     @Override
     protected Pagamento criarPagamento() {

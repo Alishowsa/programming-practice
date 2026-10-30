@@ -1,4 +1,3 @@
-// PRODUTO CONCRETO (novo, tarefa 5)
 public class Boleto implements Pagamento {
     @Override
     public void processar(double valor) {

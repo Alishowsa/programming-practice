@@ -12,7 +12,6 @@ public class Main {
         System.out.println("Taxa: R$ " + checkout.taxa(valor));
     }
 
-    // Raiz de composicao: unico ponto do sistema que conhece as subclasses concretas
     private static Checkout criarCheckout(String tipo) {
         switch (tipo) {
             case "pix":
